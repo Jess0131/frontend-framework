@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"css-compile": "sass scss:public/css",
+		"css-compile": "sass scss:css",
 		"start": "npm run css-compile & lite-server"
 	},
 	"author": "",
